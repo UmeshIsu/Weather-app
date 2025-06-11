@@ -29,10 +29,3 @@ A simple and responsive weather application built using **HTML**, **CSS**, and *
 
 ---
 
-## 🧪 How to Use
-
-1. **Clone this repository**:
-
-```bash
-git clone https://github.com/yourusername/weather-app.git
-cd weather-app
