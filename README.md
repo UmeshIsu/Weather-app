@@ -20,12 +20,4 @@ A simple and responsive weather application built using **HTML**, **CSS**, and *
 - OpenWeatherMap API  
 - Responsive design principles
 
----
-
-## 📸 Preview
-
-<!-- Replace the path below with your actual screenshot path -->
-![Weather App Screenshot](images/preview.png)
-
----
 
