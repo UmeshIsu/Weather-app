@@ -9,7 +9,7 @@ A simple and responsive weather application built using **HTML**, **CSS**, and *
 - 🌍 Search weather by city name  
 - 🌡️ Displays temperature, humidity, and wind speed  
 - 🌤️ Dynamic weather icons and background gradients based on conditions  
-- 📱 Fully responsive design for all screen sizes
+
 
 ---
 
